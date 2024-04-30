@@ -19,9 +19,19 @@ TARGET_LINUX_KERNEL_VERSION := 4.4
 DEVICE_USES_NO_TRUSTY := true
 BOARD_WITHOUT_RADIO := true
 
+# Inherit device configurations
+$(call inherit-product, device/
+$(call inherit-product, device/samsung/gta3xlwifi/device-gta3xlwifi.mk)
+
+
 # Product inf
 PRODUCT_DEVICE := gta3xlwifi
 PRODUCT_NAME := lineage_gta3xlwifi
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-T510
 PRODUCT_MANUFACTURER := samsung
+
+PRODUCT_GMS_CLIENTID_BASE := android-samsung
+
+DEVICE_MANIFEST_FILE += \
+	device/samsung/gta3xlwifi/hidl/manifest.xml
