@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_tangorpro.mk \
-    $(LOCAL_DIR)/aosp_tangorpro_hwasan.mk \
-    $(LOCAL_DIR)/factory_tangorpro.mk
+    $(LOCAL_DIR)/aosp_gta3xlwifi.mk \
+    $(LOCAL_DIR)/aosp_gta3xlwifi_hwasan.mk \
+    $(LOCAL_DIR)/factory_gta3xlwifi.mk
 
     COMMON_LUNCH_CHOICES := \
         aosp_gta3xlwifi_staging \
