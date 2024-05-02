@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-$(call inherit-product, device/google/tangorpro/aosp_gta3xlwifi.mk)
+$(call inherit-product, device/samsung/gta3xlwifi/aosp_gta3xlwifi.mk)
 PRODUCT_NAME := aosp_gta3xlwifi_hwasan
 
 # Add "hwaddress" as a global sanitizer if it's missing.
