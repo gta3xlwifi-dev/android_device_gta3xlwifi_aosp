@@ -1,0 +1,1 @@
+/dev/block/zram0     none     swap     defaults     wait,zramsize=1374683136,zram_backingdev_size=128M
