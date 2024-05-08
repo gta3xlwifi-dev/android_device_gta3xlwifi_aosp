@@ -12,4 +12,4 @@ require version-vendor=1673246928
 - is_ab: false
 - brand: samsung
 - branch: gta3xlwifixx-user-11-RP1A.200720.012-T510XXU5CWA1-release-keys
-- repo: samsung_gta3xlwifi_frm_dump
+- repo: gta3xlwifi_aosp
