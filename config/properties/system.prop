@@ -1,0 +1,11 @@
+dev.usbsetting.embedded=on
+net.bt.name=AOSP
+ro.arch=exynos7904
+ro.build.2ndbrand=Lineage
+ro.build.PDA=T510XXU5CWA1
+ro.build.display.id=RP1A.200720.012.T510XXU5CWA1
+ro.hardware.chipname=exynos7904
+ro.build.tf_modelnumber=SM-T510
+
+
+
