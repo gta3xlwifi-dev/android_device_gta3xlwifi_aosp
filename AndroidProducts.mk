@@ -20,6 +20,6 @@ PRODUCT_MAKEFILES := \
   
 
     COMMON_LUNCH_CHOICES := \
-        aosp_gta3xlwifi_staging \
-        aosp_gta3xlwifi_userdebug \
-        aosp_gta3xlwifi_user
+        aosp_gta3xlwifi-eng \
+        aosp_gta3xlwifi-userdebug \
+        aosp_gta3xlwifi-user
