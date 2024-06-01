@@ -8,3 +8,10 @@ The commit messages in this repository will follow my process of building the de
 
 This can serve as reference for understanding device configs within AOSP build system
 
+TODO:
+-
+- BoardConfig
+- Audio XML refactoring
+- double check SLSI wifi
+- implement smart cast protocol
+- ...
