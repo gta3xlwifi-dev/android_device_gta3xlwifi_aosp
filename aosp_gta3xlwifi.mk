@@ -20,7 +20,7 @@ DEVICE_USES_NO_TRUSTY := true
 BOARD_WITHOUT_RADIO := true
 
 # Inherit device configurations
-#$(call inherit-product, device/samsung/gta3xlwifi/factory-gta3xlwifi.mk)
+#$(call inherit-product, #device/samsung/gta3xlwifi/factory-gta3xlwifi.mk)
 $(call inherit-product, device/samsung/gta3xlwifi/device-gta3xlwifi.mk)
 
 
