@@ -1,7 +1,0 @@
-dev.usbsetting.embedded=on
-# Defining Cloudflare nameservers over Google default
-net.dns1=1.1.1.1
-net.dns2=1.0.0.1
-debug.slsi_platform=1
-ro.radio.noril=yes
-wifi.interface=wlan0
